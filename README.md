@@ -4,7 +4,7 @@ A simple side scrolling adventure game.
 ## Installation
 Run a python virtual environment then install pygame and run the program.
 ```python
-python3 -m pip install -U pygame --use
+python3 -m pip install -U pygame --user
 python3 app.py
 ```
 
